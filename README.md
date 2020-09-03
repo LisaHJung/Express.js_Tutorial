@@ -1,5 +1,5 @@
 # Express.js_Tutorial
-This repo was written for [Beginner's guide to building a server with Express.js](https://dev.to/lisahjung/beginner-s-guide-to-using-express-as-node-framework-1b8n-temp-slug-3900042?preview=36ee650234e8009267931f61ba1aa3a402a295fa3585bb8f6f7c42270595da5c7e67e87f9801c62d4d8d4168ae67fe24e937d0ea73fa0fe39f5b93b2).
+This repo was written for [Beginner's guide to building a server with Express.js](https://dev.to/lisahjung/beginner-s-guide-to-building-a-server-with-express-js-29c3).
 
 This tutorial will instruct you to copy the contents of home.html and funny-name.html files in this repo to the corresponding files in your own server. 
 
